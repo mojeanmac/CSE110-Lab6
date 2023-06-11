@@ -2,4 +2,4 @@
 
 Molly MacLaren
 
-https://mojeanmac.github.io/CSE110-Lab6/index.html
+https://mojeanmac.github.io/cse110-Lab6/
